@@ -1,2 +1,2 @@
 # autobahncaches
-Caches next to German highways (Aurtobahn)
+Caches next to German highways (Autobahn)
